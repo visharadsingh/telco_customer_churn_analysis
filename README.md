@@ -49,7 +49,7 @@ The dataset can be used for various analyses, including:
 
 ### Data Source
 
-The dataset is available in CSV format and can be accessed [here](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/46086747/ab2d9786-3f06-49fd-915c-006ab31f2a28/WA_Fn-UseC_-Telco-Customer-Churn.csv).
+The dataset is available in CSV format and can be accessed [here](https://github.com/visharadsingh/telco_customer_churn_analysis/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv).
 
 ## Insights
 
